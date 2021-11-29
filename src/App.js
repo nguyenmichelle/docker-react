@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         3 + 3 =
         <p id="answer">
-          6
+          7
         </p>
       </header>
     </div>
